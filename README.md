@@ -1,1 +1,1 @@
-Personal Mini Project for trying out the RAG pipeline
+Mini Project for trying out the RAG pipeline
